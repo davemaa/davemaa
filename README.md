@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davemaa
-- 👀 I’m interested in SQL queries, music, and database management and structure.
+- 👀 I’m interested in audio engineering and database management.
 - 🌱 I’m currently learning how to become a better person. Cliche much? I know.
 - 💞️ I’m looking to collaborate on database management
 - 📫 How to reach me? You can contact through my email: machario.dave@gmail.com
